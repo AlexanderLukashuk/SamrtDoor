@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class PlayerMove : MonoBehaviour
 {
+
     Rigidbody body;
     public int step;
     void Start()
